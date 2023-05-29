@@ -2,4 +2,4 @@
 
 
 # Demo
-![demo](./app/src/assets/androidcalculator.gif)
+![demo](./app/src/main/assests/androidcalculator.gif)
